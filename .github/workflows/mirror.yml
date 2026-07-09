@@ -11,8 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-        curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \ 
-        https://warpweftandway.com/feed/ -o feed.xml
+        curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \ https://warpweftandway.com/feed/ -o feed.xml
       - run: |
           git config user.name "mirror-bot"
           git config user.email "bot@example.com"
