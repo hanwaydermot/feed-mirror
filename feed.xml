@@ -1,5 +1,3 @@
-<br />
-<b>Warning</b>:  trim() expects at least 1 parameter, 0 given in <b>/home/warpweft/public_html/index.php</b> on line <b>3</b><br />
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
