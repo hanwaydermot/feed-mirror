@@ -1,0 +1,21 @@
+name: Mirror feed
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+        curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \ 
+        https://warpweftandway.com/feed/ -o feed.xml
+      - run: |
+          git config user.name "mirror-bot"
+          git config user.email "bot@example.com"
+          git add feed.xml
+          git diff --staged --quiet || git commit -m "update mirror"
+          git push
