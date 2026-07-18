@@ -12,7 +12,7 @@
 	<atom:link href="https://warpweftandway.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warpweftandway.com</link>
 	<description>Chinese and Comparative Philosophy 中國哲學與比較哲學</description>
-	<lastBuildDate>Sun, 12 Jul 2026 19:02:00 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 18 Jul 2026 17:04:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,59 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0.2</generator>
 	<item>
+		<title>CFP: 4th Carolina Conference on Chinese Thought</title>
+		<link>https://warpweftandway.com/cfp-4th-carolina-conference-on-chinese-thought/</link>
+					<comments>https://warpweftandway.com/cfp-4th-carolina-conference-on-chinese-thought/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Angle]]></dc:creator>
+		<pubDate>Sat, 18 Jul 2026 17:04:51 +0000</pubDate>
+				<category><![CDATA[Call for Papers (CFP)]]></category>
+		<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
+		<guid isPermaLink="false">https://warpweftandway.com/?p=142134</guid>
+
+					<description><![CDATA[Call for Proposals: 4TH CAROLINA CONFERENCE ON CHINESE THOUGHT Friday, April 2 – Saturday, April 3, 2027, CONVERSE UNIVERSITY, Spartanburg, SC The Carolina Conference on Chinese Thought (CCCT) is a regionally-based site for exchange and connection among those interested in Chinese thought, broadly construed. We invite scholars and graduate students to discuss their work on [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://warpweftandway.com/cfp-4th-carolina-conference-on-chinese-thought/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CFP: ISCP at APA Central</title>
+		<link>https://warpweftandway.com/cfp-iscp-at-apa-central-3/</link>
+					<comments>https://warpweftandway.com/cfp-iscp-at-apa-central-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Angle]]></dc:creator>
+		<pubDate>Sat, 18 Jul 2026 17:01:20 +0000</pubDate>
+				<category><![CDATA[Call for Papers (CFP)]]></category>
+		<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
+		<guid isPermaLink="false">https://warpweftandway.com/?p=142132</guid>
+
+					<description><![CDATA[The ISCP is pleased to invite submissions for the ISCP Group Panel at the 2027 APA Central Division Meeting, which will be held at the Hilton Denver City Center in Denver, CO, on February 24–27, 2027. They welcome proposals on any topic related to Chinese philosophy. Please submit your abstract (in Word or PDF format) [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://warpweftandway.com/cfp-iscp-at-apa-central-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PHP / RSS issues</title>
+		<link>https://warpweftandway.com/php-rss-issues/</link>
+					<comments>https://warpweftandway.com/php-rss-issues/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Angle]]></dc:creator>
+		<pubDate>Sat, 18 Jul 2026 16:59:42 +0000</pubDate>
+				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
+		<guid isPermaLink="false">https://warpweftandway.com/?p=142130</guid>
+
+					<description><![CDATA[Several readers have reached out to me to let me know that the line of text (&#8220;Warning: trim() expects at least 1 parameter&#8230;&#8221;) appearing at the top of the page is interfering with their usual RSS feed for the blog. I am sorry about that! I believe the reason it&#8217;s there is that the site&#8217;s [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://warpweftandway.com/php-rss-issues/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Plato</title>
 		<link>https://warpweftandway.com/plato/</link>
 					<comments>https://warpweftandway.com/plato/#respond</comments>
@@ -582,62 +635,6 @@
 					<description><![CDATA[The 2-week Visiting Programs organized by the Research Centre for Chinese Philosophy and Culture at the Department of Philosophy of The Chinese University of Hong Kong are now open for application. Overview: In order to promote exchanges with scholars from around the world, the Research Centre for Chinese Philosophy and Culture has established several exchange [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://warpweftandway.com/application-open-2-week-visiting-programs-at-cuhk/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>ToC: New issue of Asian Studies</title>
-		<link>https://warpweftandway.com/toc-new-issue-of-asian-studies/</link>
-					<comments>https://warpweftandway.com/toc-new-issue-of-asian-studies/#respond</comments>
-		
-		<dc:creator><![CDATA[Steve Angle]]></dc:creator>
-		<pubDate>Sun, 17 May 2026 20:46:09 +0000</pubDate>
-				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
-		<category><![CDATA[Comparative philosophy]]></category>
-		<category><![CDATA[Tables of Contents]]></category>
-		<guid isPermaLink="false">https://warpweftandway.com/?p=141950</guid>
-
-					<description><![CDATA[Issue 14:2 of Asian Studies has been published; the theme is &#8220;Thematic Focus: Latin American Perspectives on Asian Humanities.&#8221; See here.]]></description>
-		
-					<wfw:commentRss>https://warpweftandway.com/toc-new-issue-of-asian-studies/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Fudan Summer School of Chinese Philosophy: History and Emotions in Chinese Philosophy</title>
-		<link>https://warpweftandway.com/fudan-summer-school-of-chinese-philosophy-history-and-emotions-in-chinese-philosophy/</link>
-					<comments>https://warpweftandway.com/fudan-summer-school-of-chinese-philosophy-history-and-emotions-in-chinese-philosophy/#respond</comments>
-		
-		<dc:creator><![CDATA[baitongdong]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 14:18:16 +0000</pubDate>
-				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
-		<guid isPermaLink="false">https://warpweftandway.com/?p=141940</guid>
-
-					<description><![CDATA[August 2-12, Language: English, a great line-up of scholars. See this link for details: https://mp.weixin.qq.com/s/rt71u6CJ0KpN0YFPf2MNdA]]></description>
-		
-					<wfw:commentRss>https://warpweftandway.com/fudan-summer-school-of-chinese-philosophy-history-and-emotions-in-chinese-philosophy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Two Upcoming Collaborative Learning Events</title>
-		<link>https://warpweftandway.com/two-upcoming-collaborative-learning-events/</link>
-					<comments>https://warpweftandway.com/two-upcoming-collaborative-learning-events/#respond</comments>
-		
-		<dc:creator><![CDATA[Tim Connolly]]></dc:creator>
-		<pubDate>Fri, 08 May 2026 13:52:01 +0000</pubDate>
-				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
-		<category><![CDATA[Events]]></category>
-		<category><![CDATA[Zhuangzi]]></category>
-		<category><![CDATA[四海为学 / Collaborative Learning]]></category>
-		<guid isPermaLink="false">https://warpweftandway.com/?p=141937</guid>
-
-					<description><![CDATA[Dear Colleagues, Next week the 四海为学 Collaborative Learning Project will host two roundtables: May 11th at 9:00am Beijing time: &#8220;Nothingness (無) in the Zhuangzi.&#8221;  May 11th at 19:00 Beijing time: &#8220;Transformation and/in the Zhuangzi.&#8221; Please feel free to advertise these events or share them with anyone. All our events are free and open to everyone. Note that no pre-registration or passcode is required for [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://warpweftandway.com/two-upcoming-collaborative-learning-events/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
