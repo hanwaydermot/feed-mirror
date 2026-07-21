@@ -12,7 +12,7 @@
 	<atom:link href="https://warpweftandway.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warpweftandway.com</link>
 	<description>Chinese and Comparative Philosophy 中國哲學與比較哲學</description>
-	<lastBuildDate>Sat, 18 Jul 2026 17:04:51 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Jul 2026 17:23:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,25 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0.2</generator>
 	<item>
+		<title>CFP: 25th ISCP Conference</title>
+		<link>https://warpweftandway.com/cfp-25th-iscp-conference/</link>
+					<comments>https://warpweftandway.com/cfp-25th-iscp-conference/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve Angle]]></dc:creator>
+		<pubDate>Tue, 21 Jul 2026 17:22:23 +0000</pubDate>
+				<category><![CDATA[Call for Papers (CFP)]]></category>
+		<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
+		<category><![CDATA[Comparative philosophy]]></category>
+		<guid isPermaLink="false">https://warpweftandway.com/?p=142136</guid>
+
+					<description><![CDATA[On behalf of the International Society for Chinese Philosophy (ISCP) and the Department of Philosophy, The Chinese University of Hong Kong (CUHK), we are pleased to invite submissions for the 25th International Conference of the International Society for Chinese Philosophy (ISCP), to be held at The Chinese University of Hong Kong on June 22-25, 2027. [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://warpweftandway.com/cfp-25th-iscp-conference/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>CFP: 4th Carolina Conference on Chinese Thought</title>
 		<link>https://warpweftandway.com/cfp-4th-carolina-conference-on-chinese-thought/</link>
 					<comments>https://warpweftandway.com/cfp-4th-carolina-conference-on-chinese-thought/#respond</comments>
@@ -616,26 +635,6 @@
 		
 					<wfw:commentRss>https://warpweftandway.com/episode-34-of-this-is-the-way-deference-and-autonomy-in-confucian-ethics/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Application Open: 2-Week Visiting Programs at CUHK</title>
-		<link>https://warpweftandway.com/application-open-2-week-visiting-programs-at-cuhk/</link>
-					<comments>https://warpweftandway.com/application-open-2-week-visiting-programs-at-cuhk/#respond</comments>
-		
-		<dc:creator><![CDATA[Steve Angle]]></dc:creator>
-		<pubDate>Sun, 17 May 2026 20:47:56 +0000</pubDate>
-				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
-		<category><![CDATA[Comparative philosophy]]></category>
-		<category><![CDATA[Hong Kong]]></category>
-		<category><![CDATA[Opportunities]]></category>
-		<guid isPermaLink="false">https://warpweftandway.com/?p=141952</guid>
-
-					<description><![CDATA[The 2-week Visiting Programs organized by the Research Centre for Chinese Philosophy and Culture at the Department of Philosophy of The Chinese University of Hong Kong are now open for application. Overview: In order to promote exchanges with scholars from around the world, the Research Centre for Chinese Philosophy and Culture has established several exchange [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://warpweftandway.com/application-open-2-week-visiting-programs-at-cuhk/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
