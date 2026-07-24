@@ -12,7 +12,7 @@
 	<atom:link href="https://warpweftandway.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warpweftandway.com</link>
 	<description>Chinese and Comparative Philosophy 中國哲學與比較哲學</description>
-	<lastBuildDate>Tue, 21 Jul 2026 17:23:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Jul 2026 16:11:19 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,25 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.0.2</generator>
 	<item>
+		<title>Roman Stoicism</title>
+		<link>https://warpweftandway.com/roman-stoicism/</link>
+					<comments>https://warpweftandway.com/roman-stoicism/#respond</comments>
+		
+		<dc:creator><![CDATA[Bill Haines]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2026 16:06:27 +0000</pubDate>
+				<category><![CDATA[Comparative philosophy]]></category>
+		<category><![CDATA[History of Philosophy]]></category>
+		<category><![CDATA[Family]]></category>
+		<guid isPermaLink="false">http://warpweftandway.com/?p=142141</guid>
+
+					<description><![CDATA[New post in the series “Family as Topic, Root and Model in the West: An Ephemeral Resource for Comparative Philosophy.”       Preface Early Cosmology and Religion Athens and the Polis Plato Aristotle (forthcoming) Roman Stoicism (new) &#160; &#160; Papers relevant to comparison with classical Confucianism: Impartiality in the Ancient Root: Two Concepts of [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://warpweftandway.com/roman-stoicism/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>CFP: 25th ISCP Conference</title>
 		<link>https://warpweftandway.com/cfp-25th-iscp-conference/</link>
 					<comments>https://warpweftandway.com/cfp-25th-iscp-conference/#respond</comments>
@@ -604,37 +623,6 @@
 		
 					<wfw:commentRss>https://warpweftandway.com/blind-spots-on-the-authority-of-scholarly-consensus-on-the-analects/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Episode 34 of “This Is the Way”: Deference and Autonomy in Confucian Ethics</title>
-		<link>https://warpweftandway.com/episode-34-of-this-is-the-way-deference-and-autonomy-in-confucian-ethics/</link>
-					<comments>https://warpweftandway.com/episode-34-of-this-is-the-way-deference-and-autonomy-in-confucian-ethics/#comments</comments>
-		
-		<dc:creator><![CDATA[Justin Tiwald]]></dc:creator>
-		<pubDate>Tue, 19 May 2026 22:08:47 +0000</pubDate>
-				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
-		<category><![CDATA[Confucianism]]></category>
-		<category><![CDATA[Dai Zhen]]></category>
-		<category><![CDATA[Epistemology]]></category>
-		<category><![CDATA[History]]></category>
-		<category><![CDATA[Moral Psychology]]></category>
-		<category><![CDATA[Podcast]]></category>
-		<category><![CDATA[This is the Way (podcast)]]></category>
-		<category><![CDATA[Wang Yangming]]></category>
-		<category><![CDATA[Xunzi]]></category>
-		<category><![CDATA[Zhu Xi]]></category>
-		<category><![CDATA[moral deference]]></category>
-		<category><![CDATA[moral epistemology]]></category>
-		<category><![CDATA[moral testimony]]></category>
-		<category><![CDATA[This Is the Way]]></category>
-		<guid isPermaLink="false">https://warpweftandway.com/?p=141943</guid>
-
-					<description><![CDATA[Many of us value autonomy in decision-making: we want to make our own choices and think for ourselves. But we also know that in many areas of life, it is well advised to have greater faith in people who know more than we do, in experts such as doctors, scientists, plumbers, chess coaches, teachers, and [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://warpweftandway.com/episode-34-of-this-is-the-way-deference-and-autonomy-in-confucian-ethics/feed/</wfw:commentRss>
-			<slash:comments>4</slash:comments>
 		
 		
 			</item>
