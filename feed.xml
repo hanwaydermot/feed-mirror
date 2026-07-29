@@ -117,7 +117,7 @@
 		<item>
 		<title>PHP / RSS issues</title>
 		<link>https://warpweftandway.com/php-rss-issues/</link>
-					<comments>https://warpweftandway.com/php-rss-issues/#respond</comments>
+					<comments>https://warpweftandway.com/php-rss-issues/#comments</comments>
 		
 		<dc:creator><![CDATA[Steve Angle]]></dc:creator>
 		<pubDate>Sat, 18 Jul 2026 16:59:42 +0000</pubDate>
@@ -127,7 +127,7 @@
 					<description><![CDATA[Several readers have reached out to me to let me know that the line of text (&#8220;Warning: trim() expects at least 1 parameter&#8230;&#8221;) appearing at the top of the page is interfering with their usual RSS feed for the blog. I am sorry about that! I believe the reason it&#8217;s there is that the site&#8217;s [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://warpweftandway.com/php-rss-issues/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
