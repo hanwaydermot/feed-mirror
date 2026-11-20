@@ -12,7 +12,7 @@
 	<atom:link href="https://warpweftandway.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://warpweftandway.com</link>
 	<description>Chinese and Comparative Philosophy 中國哲學與比較哲學</description>
-	<lastBuildDate>Mon, 16 Nov 2026 20:35:53 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Nov 2026 16:23:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,44 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=7.1.5</generator>
 	<item>
+		<title>Test of Newsletter Widget</title>
+		<link>https://warpweftandway.com/test-of-newsletter-widget/</link>
+					<comments>https://warpweftandway.com/test-of-newsletter-widget/#comments</comments>
+		
+		<dc:creator><![CDATA[Manyul Im]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 16:23:51 +0000</pubDate>
+				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
+		<guid isPermaLink="false">https://warpweftandway.com/?p=142513</guid>
+
+					<description><![CDATA[(This is to test a new widget to see if it sends new post updates to subscribers. -Manyul)]]></description>
+		
+					<wfw:commentRss>https://warpweftandway.com/test-of-newsletter-widget/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Upcoming 四海为学 Collaborative Learning Event</title>
+		<link>https://warpweftandway.com/upcoming-%e5%9b%9b%e6%b5%b7%e4%b8%ba%e5%ad%a6-collaborative-learning-event-2/</link>
+					<comments>https://warpweftandway.com/upcoming-%e5%9b%9b%e6%b5%b7%e4%b8%ba%e5%ad%a6-collaborative-learning-event-2/#respond</comments>
+		
+		<dc:creator><![CDATA[Tim Connolly]]></dc:creator>
+		<pubDate>Fri, 20 Nov 2026 13:25:49 +0000</pubDate>
+				<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
+		<category><![CDATA[Confucianism]]></category>
+		<category><![CDATA[Events]]></category>
+		<category><![CDATA[Political Theory]]></category>
+		<category><![CDATA[四海为学 / Collaborative Learning]]></category>
+		<guid isPermaLink="false">https://warpweftandway.com/?p=142504</guid>
+
+					<description><![CDATA[Dear Colleagues, On November 23rd at 13:00 Beijing time the 四海为学 Collaborative Learning Project will host a roundtable titled &#8220;How Liberalism Can Help Confucianism.&#8221; For details, including the Zoom link, see our event page. Please feel free to advertise this event anywhere or share it with anyone. All our events are free and open to [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://warpweftandway.com/upcoming-%e5%9b%9b%e6%b5%b7%e4%b8%ba%e5%ad%a6-collaborative-learning-event-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Teaching Opportunity at Wesleyan University</title>
 		<link>https://warpweftandway.com/teaching-opportunity-at-wesleyan-university/</link>
 					<comments>https://warpweftandway.com/teaching-opportunity-at-wesleyan-university/#respond</comments>
@@ -588,46 +626,6 @@
 					<description><![CDATA[The 2026 meeting of the Northeast Conference on Chinese Thought (NEECT) will take place on October 30-31 at Bentley University. Please see here for more details, or read on for the program. 2026 NECCT Conference Program Friday, October 30th 8:30—9:00am Coffee &#38; Pastries  9:00 –10:30am Morning Panel 1 The Emergence of Self-Cultivation Techniques in Pre-Qin Confucian Philosophy [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://warpweftandway.com/conference-announcement-necct-2026-at-bentley-university/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Chinese Translation of Foust, Confucianism and American Philosophy</title>
-		<link>https://warpweftandway.com/chinese-translation-of-foust-confucianism-and-american-philosophy/</link>
-					<comments>https://warpweftandway.com/chinese-translation-of-foust-confucianism-and-american-philosophy/#respond</comments>
-		
-		<dc:creator><![CDATA[Wenwan Shen]]></dc:creator>
-		<pubDate>Wed, 30 Sep 2026 10:03:13 +0000</pubDate>
-				<category><![CDATA[Books of Interest]]></category>
-		<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
-		<category><![CDATA[Confucianism]]></category>
-		<category><![CDATA[Translation]]></category>
-		<guid isPermaLink="false">https://warpweftandway.com/?p=142347</guid>
-
-					<description><![CDATA[Northwest University Press (西北大学出版社) has published a Chinese translation of Mathew Foust&#8217;s book, Confucianism and American Philosophy (SUNY Press, 2017): [美] 马修·A. 福斯特著，张亲霞译，《儒学与美国哲学》，西北大学出版社，2026年7月，ISBN 9787560460895. More information from Douban is available here. &#160;]]></description>
-		
-					<wfw:commentRss>https://warpweftandway.com/chinese-translation-of-foust-confucianism-and-american-philosophy/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Yin-Cheng Distinguished Lecture Series &#8211; Peter D. Hershock at SOAS</title>
-		<link>https://warpweftandway.com/yin-cheng-distinguished-lecture-series-peter-d-hershock-at-soas/</link>
-					<comments>https://warpweftandway.com/yin-cheng-distinguished-lecture-series-peter-d-hershock-at-soas/#respond</comments>
-		
-		<dc:creator><![CDATA[Wenwan Shen]]></dc:creator>
-		<pubDate>Mon, 28 Sep 2026 23:28:27 +0000</pubDate>
-				<category><![CDATA[Academia]]></category>
-		<category><![CDATA[Buddhism]]></category>
-		<category><![CDATA[Chinese philosophy - 中國哲學 - 中国哲学]]></category>
-		<category><![CDATA[Europe]]></category>
-		<guid isPermaLink="false">https://warpweftandway.com/?p=142319</guid>
-
-					<description><![CDATA[On 15 October, Peter D. Hershock will deliver a talk on Buddhism and AI. The public talk will be followed by a roundtable discussion extending the conversation beyond Buddhism. Discussants will include Angel González-Ferrer (Centre for Digital Culture at the Dicastery for Culture and Education of the Vatican), Ali Hossaini (SOAS), and Debora Tonelli (Georgetown Representative in Rome). The event will conclude with [&#8230;]]]></description>
-		
-					<wfw:commentRss>https://warpweftandway.com/yin-cheng-distinguished-lecture-series-peter-d-hershock-at-soas/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
